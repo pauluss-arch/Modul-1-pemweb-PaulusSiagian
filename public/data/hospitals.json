@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Metropolitan Central General Hospital",
+    "category": "general",
+    "address": "100 Medical Center Blvd, Central District",
+    "isEmergency24h": true,
+    "contact": "+1 (555) 234-5678"
+  },
+  {
+    "id": 2,
+    "name": "St. Jude Maternal & Child Health Pavilion",
+    "category": "maternity",
+    "address": "45 Blossom Way, Westside Medical Park",
+    "isEmergency24h": false,
+    "contact": "+1 (555) 345-6789"
+  },
+  {
+    "id": 3,
+    "name": "Downtown Acute Trauma & Emergency Center",
+    "category": "emergency",
+    "address": "12 Rapid Response Plaza, Downtown Core",
+    "isEmergency24h": true,
+    "contact": "+1 (555) 911-2424"
+  },
+  {
+    "id": 4,
+    "name": "Apex Heart & Vascular Specialty Institute",
+    "category": "specialized",
+    "address": "88 Cardiovascular Way, North Hill Science City",
+    "isEmergency24h": true,
+    "contact": "+1 (555) 456-7890"
+  },
+  {
+    "id": 5,
+    "name": "Grace Motherhood & Neonatal Care Center",
+    "category": "maternity",
+    "address": "210 Meadow Lane, South Greenfield",
+    "isEmergency24h": false,
+    "contact": "+1 (555) 567-8901"
+  },
+  {
+    "id": 6,
+    "name": "Pine Valley Community General Hospital",
+    "category": "general",
+    "address": "512 Pinecrest Avenue, Eastern Suburbs",
+    "isEmergency24h": false
+  },
+  {
+    "id": 7,
+    "name": "Harborview Rapid Emergency Care",
+    "category": "emergency",
+    "address": "33 Portview Boulevard, Bayside Bay",
+    "isEmergency24h": true,
+    "contact": "+1 (555) 678-9012"
+  },
+  {
+    "id": 8,
+    "name": "Horizon Oncology & Neurological Institute",
+    "category": "specialized",
+    "address": "777 Research Park Drive, Tech Innovation Quarter",
+    "isEmergency24h": false,
+    "contact": "+1 (555) 789-0123"
+  }
+]
